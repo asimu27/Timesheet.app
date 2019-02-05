@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTimesheets", "EmployeeTimesheets\EmployeeTimesheets.csproj", "{027855E2-7B05-419F-AA5B-1C7483FF6ABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTimesheets.UnitTests", "EmployeeTimesheets.UnitTests\EmployeeTimesheets.UnitTests.csproj", "{F1E08203-5C56-4C29-8A59-23549F5B123D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027855E2-7B05-419F-AA5B-1C7483FF6ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027855E2-7B05-419F-AA5B-1C7483FF6ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027855E2-7B05-419F-AA5B-1C7483FF6ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027855E2-7B05-419F-AA5B-1C7483FF6ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E08203-5C56-4C29-8A59-23549F5B123D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E08203-5C56-4C29-8A59-23549F5B123D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E08203-5C56-4C29-8A59-23549F5B123D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E08203-5C56-4C29-8A59-23549F5B123D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A11918A3-EE9F-4811-8440-01066013210D}
+	EndGlobalSection
+EndGlobal
